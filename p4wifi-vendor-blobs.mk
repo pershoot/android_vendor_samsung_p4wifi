@@ -59,13 +59,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p4wifi/proprietary/etc/firmware/nvmm_wmadec.axf:system/etc/firmware/nvmm_wmadec.axf \
     vendor/samsung/p4wifi/proprietary/etc/firmware/nvmm_wmaprodec.axf:system/etc/firmware/nvmm_wmaprodec.axf \
     vendor/samsung/p4wifi/proprietary/etc/firmware/nvrm_avp.bin:system/etc/firmware/nvrm_avp.bin \
-    vendor/samsung/p4wifi/proprietary/etc/wifi/bcm4330_mfg.bin:system/etc/wifi/bcm4330_mfg.bin \
-    vendor/samsung/p4wifi/proprietary/etc/wifi/bcm4330_sta.bin:system/etc/wifi/bcm4330_sta.bin \
-    vendor/samsung/p4wifi/proprietary/etc/wifi/bcm4330_sta.bin_b0:system/etc/wifi/bcm4330_sta.bin_b0 \
-    vendor/samsung/p4wifi/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
     vendor/samsung/p4wifi/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
-    vendor/samsung/p4wifi/proprietary/etc/wifi/nvram_net.txt_b0:system/etc/wifi/nvram_net.txt_b0 \
-    vendor/samsung/p4wifi/proprietary/etc/wifi/nvram_net.txt_us:system/etc/wifi/nvram_net.txt_us \
     vendor/samsung/p4wifi/proprietary/etc/wifi/wl:system/etc/wifi/wl \
     vendor/samsung/p4wifi/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/samsung/p4wifi/proprietary/lib/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
