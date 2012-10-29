@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES := \
     vendor/samsung/p4wifi/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/p4wifi/proprietary/bin/gps.cer:system/bin/gps.cer \
     vendor/samsung/p4wifi/proprietary/bin/macloader:system/bin/macloader \
-    vendor/samsung/p4wifi/proprietary/bin/sec_keyboard:system/bin/sec_keyboard \
     vendor/samsung/p4wifi/proprietary/bin/tegrastats:system/bin/tegrastats \
     vendor/samsung/p4wifi/proprietary/etc/audio/Rx_ControlParams_BLUETOOTH_HEADSET.txt:system/etc/audio/Rx_ControlParams_BLUETOOTH_HEADSET.txt \
     vendor/samsung/p4wifi/proprietary/etc/audio/Tx_ControlParams_BLUETOOTH_HEADSET.txt:system/etc/audio/Tx_ControlParams_BLUETOOTH_HEADSET.txt \
